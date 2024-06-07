@@ -24,8 +24,6 @@ The air traffic control panel
 "My Radar" is a C-based graphical programming project aimed at simulating a 2D air traffic control (ATC) panel. This project involves rendering a visualization of air traffic, including aircraft and control towers, and managing their interactions based on specified rules. The simulation provides an interactive and dynamic representation of aircraft movements and control tower areas within a window of 1920x1080 pixels.
  ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 - [C](https://cplusplus.com/reference/clibrary/)
 - [CSFML](https://www.sfml-dev.org/index.php)
  ## Getting Started
