@@ -1,7 +1,6 @@
                          
 <br/>
 <div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
 <img src="https://avatars.githubusercontent.com/u/146715863?v=4" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">MY_RADAR</h3>
