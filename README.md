@@ -9,7 +9,6 @@
 The air traffic control panel
 <br/>
 <br/>
-<a href="https://intra.epitech.eu/module/2023/B-MUL-100/RUN-1-1/acti-612326/project/file/B-MUL-100_my_radar.pdf"><strong>Explore the docs »</strong></a>
 
   
 
