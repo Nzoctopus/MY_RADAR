@@ -17,7 +17,7 @@ The air traffic control panel
 
  ## About The Project
 
-![Screenshot](https://cdn.discordapp.com/attachments/1178592607891357697/1248534599592575048/radar.png?ex=666403f5&is=6662b275&hm=b46ec52cd2c6a84919ad21bb13cdad79b7aff2abed302a47c5a60a40572d7362&)
+![IMAGE](https://socialify.git.ci/Nzoctopus/MY_RADAR/image?description=1&font=Jost&language=1&name=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
 
 "My Radar" is a C-based graphical programming project aimed at simulating a 2D air traffic control (ATC) panel. This project involves rendering a visualization of air traffic, including aircraft and control towers, and managing their interactions based on specified rules. The simulation provides an interactive and dynamic representation of aircraft movements and control tower areas within a window of 1920x1080 pixels.
  ### Built With
